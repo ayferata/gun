@@ -21,12 +21,6 @@ public final class Gun {
 
 }
 
-
-
-İlgili örnekteki sadece sabitlerden oluşan sınıflar için Java'da ENUM sınıflar kullanılır ve kullanımı daha kolaydır.
-
-
-
 public enum Day {
     PAZARTESI(1),
     SALI(2),
