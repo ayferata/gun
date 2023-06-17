@@ -41,7 +41,6 @@ public enum Day {
     }
 }
 
-
 public class PatikaDev {
     public static void main(String[] args) {
 
